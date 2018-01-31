@@ -1,0 +1,76 @@
+.itg_em_left {
+    float: left;
+    width: 65%;
+}
+.itg_em_right {
+    float: right;
+    width: 32%;
+}
+.itg_em_wrap {
+    overflow: hidden;
+}
+.postbox .hndle span {
+    overflow: hidden;
+    
+}
+.postbox .hndle span span {
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;
+    padding: 0 5px 0 0;
+    background-image: url('../images/sprite.png');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin-top: -2px;
+}
+.itg-em-admin-op span {
+    background-position: 0 0;
+}
+.itg-em-admin-ins span {
+    background-position: 0 -16px;
+}
+.itg-em-admin-donate span {
+    background-position: 0 -32px;
+}
+.itg-em-admin-itg span {
+    background-position: 0 -48px;
+}
+.itg-em-admin-proj span {
+    background-position: 0 -64px;
+}
+.itg-em-admin-spon span {
+    background-position: 0 -80px;
+}
+.itg-em-admin-faq span {
+    background-position: 0 -96px;
+}
+.itg-em-admin-social span {
+    background-position: 0 -112px;
+}
+.itg-em-admin-ul {
+    margin: 5px 0;
+    padding: 0 0 0 20px;
+}
+.itg-em-admin-ul li {
+    padding: 2px 0 2px 10px;
+    list-style: square inside;
+}
+.don_but {
+    display: block;
+}
+.don_but img {
+    display: block;
+    width: 143px;
+    margin: 0 auto;
+}
+.user_ul {
+    margin: 5px 0;
+    padding: 2px 0 2px 10px;
+}
+.user_ul li {
+    list-style: none;
+    background: url('../images/bullet.gif') no-repeat scroll left 5px;
+    padding: 3px 0 3px 18px;
+    margin: 0;
+}
